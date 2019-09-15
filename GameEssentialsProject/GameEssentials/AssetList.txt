@@ -1,0 +1,38 @@
+Assets for Game Snap Shot
+
+Objects: 
+- fence mesh
+- left fence box
+- right fence box
+- Left rube on ground
+- Right tube on ground
+- post with light A
+- post with light B
+- wires comming out of post going left
+- tall post left C
+- Sign holder for horizontal yellow sign
+-  Thick middle pipe
+- "C" thin tube
+- Tripple pipes
+- round fan
+- close up tricane pipes
+
+Lights
+- little green lights
+- medium yellow lgihts
+- Red circle light  
+
+Visual FX
+- little green lights
+- medium yellow lgihts
+- Red circle light  
+
+Images
+- Wanted Abe
+- Stand still when the mot...
+- blue sign
+
+Lighting
+- Pink clouds
+- blue sky
+- red glowing

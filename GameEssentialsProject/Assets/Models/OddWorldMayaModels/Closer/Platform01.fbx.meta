@@ -1,67 +1,15 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: 4bab441b0bbca5741ba2e38b2a6cac99
-=======
-guid: 1d1d46969b4c88a46ab7b785f2498d0b
->>>>>>> master
+guid: 3b487ea0eae0d3e47b3a8af42023d9ba
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Bird1
-    100004: Bird2
-    100006: Bird3
-    100008: Bird4
-    100010: Bird6_
-    100012: Bird7
-    100014: Bird8 1
-    100016: Bird9
     400000: //RootNode
-    400002: Bird1
-    400004: Bird2
-    400006: Bird3
-    400008: Bird4
-    400010: Bird6_
-    400012: Bird7
-    400014: Bird8 1
-    400016: Bird9
     2100000: lambert1
-    2300000: Bird1
-    2300002: Bird2
-    2300004: Bird3
-    2300006: Bird4
-    2300008: Bird6_
-    2300010: Bird7
-    2300012: Bird8 1
-    2300014: Bird9
-    3300000: Bird1
-    3300002: Bird2
-    3300004: Bird3
-    3300006: Bird4
-    3300008: Bird6_
-    3300010: Bird7
-    3300012: Bird8 1
-    3300014: Bird9
-    4300000: Bird1
-    4300002: Bird2
-    4300004: Bird3
-    4300006: Bird4
-    4300008: Bird6_
-    4300010: Bird7
-    4300012: Bird8
-    4300014: Bird9
-<<<<<<< HEAD
-    7400000: Take 001
-=======
-    7400000: Birds123
->>>>>>> master
-    9500000: //RootNode
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 248208ccda0c5e9449fc414f04efd13a, type: 2}
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: pCube1
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
@@ -88,43 +36,11 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations:
-    - serializedVersion: 16
-<<<<<<< HEAD
-      name: Take 001
-=======
-      name: Birds123
->>>>>>> master
-      takeName: Take 001
-      firstFrame: 1
-      lastFrame: 60
-      wrapMode: 0
-      orientationOffsetY: 0
-      level: 0
-      cycleOffset: 0
-      loop: 0
-      hasAdditiveReferencePose: 0
-      loopTime: 1
-      loopBlend: 0
-      loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
-      keepOriginalPositionY: 1
-      keepOriginalPositionXZ: 0
-      heightFromFeet: 0
-      mirror: 0
-      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
-      curves: []
-      events: []
-      transformMask: []
-      maskType: 3
-      maskSource: {instanceID: 0}
-      additiveReferencePoseFrame: 0
+    clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 25
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -145,8 +61,8 @@ ModelImporter:
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.25
-    hasPreviousCalculatedGlobalScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -173,7 +89,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

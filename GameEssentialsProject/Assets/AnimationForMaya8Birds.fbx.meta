@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 4bab441b0bbca5741ba2e38b2a6cac99
+=======
 guid: 1d1d46969b4c88a46ab7b785f2498d0b
+>>>>>>> master
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -46,7 +50,11 @@ ModelImporter:
     4300010: Bird7
     4300012: Bird8
     4300014: Bird9
+<<<<<<< HEAD
+    7400000: Take 001
+=======
     7400000: Birds123
+>>>>>>> master
     9500000: //RootNode
   externalObjects:
   - first:
@@ -82,7 +90,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
+<<<<<<< HEAD
+      name: Take 001
+=======
       name: Birds123
+>>>>>>> master
       takeName: Take 001
       firstFrame: 1
       lastFrame: 60

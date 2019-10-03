@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92eb0401-9b20-4358-b865-c3d2fefb1674" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameEssentialsProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameEssentialsProject/.idea/contentModel.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92eb0401-9b20-4358-b865-c3d2fefb1674" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,7 @@
     <session id="-1666845568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -22,11 +21,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cs" value="2" />
+          <entry key="shader" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C#" value="2" />
+          <entry key="ShaderLab" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MarqueeScroller.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -73,6 +74,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../BalloonUnity/BalloonUnity/BalloonUnityProject/Assets/MTree/shaders/Leafs.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1553209511000" expanded="true" signature="22:3668" ph="{...}" />
+                <marker date="1553209511000" expanded="true" signature="35:570" ph="{...}" />
+                <marker date="1553209511000" expanded="true" signature="581:3646" ph="{...}" />
+                <marker date="1553209511000" expanded="true" signature="649:3638" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -80,6 +95,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MarqueeScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../BalloonUnity/BalloonUnity/BalloonUnityProject/Assets/MTree/shaders/Leafs.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpDateAnims.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -179,7 +195,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-32768" width="136" height="1100" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.8552632" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -249,6 +264,18 @@
             <marker date="1569801066723" expanded="true" signature="284:823" ph="{...}" />
             <marker date="1569801066723" expanded="true" signature="856:1301" ph="{...}" />
             <marker date="1569801066723" expanded="true" signature="1048:1289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BalloonUnity/BalloonUnity/BalloonUnityProject/Assets/MTree/shaders/Leafs.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553209511000" expanded="true" signature="22:3668" ph="{...}" />
+            <marker date="1553209511000" expanded="true" signature="35:570" ph="{...}" />
+            <marker date="1553209511000" expanded="true" signature="581:3646" ph="{...}" />
+            <marker date="1553209511000" expanded="true" signature="649:3638" ph="{...}" />
           </folding>
         </state>
       </provider>

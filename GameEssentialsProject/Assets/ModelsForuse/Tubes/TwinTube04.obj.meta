@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 082732a2e0019894faa8d626f1c45478
+guid: f0a4089ddbbdf97438d4d55dc2a7a0b4
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: extrudedSurface1
-    100002: //RootNode
-    400000: extrudedSurface1
-    400002: //RootNode
+    100000: //RootNode
+    100002: TwinTubeBetter
+    400000: //RootNode
+    400002: TwinTubeBetter
     2100000: initialShadingGroup
-    2300000: extrudedSurface1
-    3300000: extrudedSurface1
-    4300000: extrudedSurface1
+    2300000: TwinTubeBetter
+    3300000: TwinTubeBetter
+    4300000: TwinTubeBetter
   externalObjects: {}
   materials:
     importMaterials: 1

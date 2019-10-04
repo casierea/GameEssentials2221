@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 337629ecf9a2d3242afb89a7349ba612
+guid: 3a2ce603fc3002b469d3ec66d7080367
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: pCylinder1
-    100002: //RootNode
-    400000: pCylinder1
-    400002: //RootNode
+    100000: //RootNode
+    100002: TubeInfrontOnground1
+    400000: //RootNode
+    400002: TubeInfrontOnground1
     2100000: initialShadingGroup
-    2300000: pCylinder1
-    3300000: pCylinder1
-    4300000: pCylinder1
+    2300000: TubeInfrontOnground1
+    3300000: TubeInfrontOnground1
+    4300000: TubeInfrontOnground1
   externalObjects: {}
   materials:
     importMaterials: 1

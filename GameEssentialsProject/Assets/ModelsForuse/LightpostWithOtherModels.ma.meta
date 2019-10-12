@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 618f297fe918ed34e85f6ed7d8d6d5f2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BB05_fNeedModel
+    100002: BigTubeNeedUV
+    100004: BillBoard1
+    100006: BillBoard3
+    100008: BillBoard4
+    100010: BillBoard5
+    100012: BillBoardConnector2
+    100014: BillBoardConnector3
+    100016: BillBoardConnector4
+    100018: BillBoardConnector5
+    100020: BillBoardCopyForSafety
+    100022: BottomFrontTubesUVED
+    100024: CopyOfLightPost
+    100026: CopyOfLightPostloop
+    100028: CouldBeUaseful
+    100030: curve2
+    100032: LightForLittlePosts_NeedToTest
+    100034: //RootNode
+    100036: nurbsCircle2
+    100038: PostLoop
+    100040: Reference
+    100042: Sign
+    100044: Sign2
+    100046: TallTubeWithWires
+    100048: TubeGenericUVED
+    100050: TwinTubeBetterUVED
+    400000: BB05_fNeedModel
+    400002: BigTubeNeedUV
+    400004: BillBoard1
+    400006: BillBoard3
+    400008: BillBoard4
+    400010: BillBoard5
+    400012: BillBoardConnector2
+    400014: BillBoardConnector3
+    400016: BillBoardConnector4
+    400018: BillBoardConnector5
+    400020: BillBoardCopyForSafety
+    400022: BottomFrontTubesUVED
+    400024: CopyOfLightPost
+    400026: CopyOfLightPostloop
+    400028: CouldBeUaseful
+    400030: curve2
+    400032: LightForLittlePosts_NeedToTest
+    400034: //RootNode
+    400036: nurbsCircle2
+    400038: PostLoop
+    400040: Reference
+    400042: Sign
+    400044: Sign2
+    400046: TallTubeWithWires
+    400048: TubeGenericUVED
+    400050: TwinTubeBetterUVED
+    2100000: lambert1
+    2300000: BigTubeNeedUV
+    2300002: BillBoard1
+    2300004: BillBoard3
+    2300006: BillBoard4
+    2300008: BillBoard5
+    2300010: BillBoardConnector2
+    2300012: BillBoardConnector3
+    2300014: BillBoardConnector4
+    2300016: BillBoardConnector5
+    2300018: BottomFrontTubesUVED
+    2300020: CopyOfLightPost
+    2300022: CopyOfLightPostloop
+    2300024: CouldBeUaseful
+    2300026: LightForLittlePosts_NeedToTest
+    2300028: PostLoop
+    2300030: Sign
+    2300032: Sign2
+    2300034: TallTubeWithWires
+    2300036: TubeGenericUVED
+    2300038: TwinTubeBetterUVED
+    3300000: BigTubeNeedUV
+    3300002: BillBoard1
+    3300004: BillBoard3
+    3300006: BillBoard4
+    3300008: BillBoard5
+    3300010: BillBoardConnector2
+    3300012: BillBoardConnector3
+    3300014: BillBoardConnector4
+    3300016: BillBoardConnector5
+    3300018: BottomFrontTubesUVED
+    3300020: CopyOfLightPost
+    3300022: CopyOfLightPostloop
+    3300024: CouldBeUaseful
+    3300026: LightForLittlePosts_NeedToTest
+    3300028: PostLoop
+    3300030: Sign
+    3300032: Sign2
+    3300034: TallTubeWithWires
+    3300036: TubeGenericUVED
+    3300038: TwinTubeBetterUVED
+    4300000: TubeGenericUVED
+    4300002: TwinTubeBetterUVED
+    4300004: TallTubeWithWires
+    4300006: BillBoard1
+    4300008: BillBoardConnector2
+    4300010: Sign
+    4300012: BillBoard5
+    4300014: BillBoardConnector5
+    4300016: BottomFrontTubesUVED
+    4300018: LightForLittlePosts_NeedToTest
+    4300020: CouldBeUaseful
+    4300022: PostLoop
+    4300024: CopyOfLightPostloop
+    4300026: CopyOfLightPost
+    4300028: BillBoard3
+    4300030: BillBoardConnector3
+    4300032: BillBoard4
+    4300034: BillBoardConnector4
+    4300036: Sign2
+    4300038: BigTubeNeedUV
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

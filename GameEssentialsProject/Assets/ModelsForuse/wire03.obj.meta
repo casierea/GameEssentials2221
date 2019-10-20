@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: a640e2fe6b995294c9ecd585d62ffa8d
+guid: 78eb65454e9de1e48b0a297cfc409d71
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: default
+    100000: Wire03
     100002: //RootNode
-    400000: default
+    400000: Wire03
     400002: //RootNode
-    2100000: defaultMat
-    2300000: default
-    3300000: default
-    4300000: default
+    2100000: texturedFacets1
+    2300000: Wire03
+    3300000: Wire03
+    4300000: Wire03
   externalObjects: {}
   materials:
     importMaterials: 1

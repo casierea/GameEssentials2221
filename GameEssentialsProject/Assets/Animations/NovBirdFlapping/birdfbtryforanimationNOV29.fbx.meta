@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 3f4a937d651c53742812e8269f3ce84f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BirdieGud
+    100004: Cntrl_1_Right
+    100006: Cntrl_2_rRight
+    100008: Cntrl_3_right
+    100010: Cntrl_4_Right
+    100012: Ctrl_5_Right
+    100014: joint14_Body
+    100016: joint15
+    100018: joint16
+    100020: joint17
+    100022: joint18
+    100024: joint1_Left
+    100026: joint1_Right
+    100028: joint2_Right
+    100030: joint3_Right
+    100032: joint4_Right
+    100034: joint___Tip
+    100036: Left_circle_1
+    100038: Left_Circle_2
+    100040: Left_circle_4
+    100042: Left_circle_5
+    100044: Left_circle_Body
+    100046: Left_Cntrl_1
+    100048: Left_Cntrl_2
+    100050: Left_Cntrl_3
+    100052: Left_Cntrl_4
+    100054: Left_Cntrl_5
+    100056: Left_Wing_Group
+    100058: nurbsCircle1_body
+    100060: Right_1_grp1
+    100062: Right_2_grp
+    100064: Right_3_grp
+    100066: Right_4_grp
+    100068: Right_5_grp
+    400000: //RootNode
+    400002: BirdieGud
+    400004: Cntrl_1_Right
+    400006: Cntrl_2_rRight
+    400008: Cntrl_3_right
+    400010: Cntrl_4_Right
+    400012: Ctrl_5_Right
+    400014: joint14_Body
+    400016: joint15
+    400018: joint16
+    400020: joint17
+    400022: joint18
+    400024: joint1_Left
+    400026: joint1_Right
+    400028: joint2_Right
+    400030: joint3_Right
+    400032: joint4_Right
+    400034: joint___Tip
+    400036: Left_circle_1
+    400038: Left_Circle_2
+    400040: Left_circle_4
+    400042: Left_circle_5
+    400044: Left_circle_Body
+    400046: Left_Cntrl_1
+    400048: Left_Cntrl_2
+    400050: Left_Cntrl_3
+    400052: Left_Cntrl_4
+    400054: Left_Cntrl_5
+    400056: Left_Wing_Group
+    400058: nurbsCircle1_body
+    400060: Right_1_grp1
+    400062: Right_2_grp
+    400064: Right_3_grp
+    400066: Right_4_grp
+    400068: Right_5_grp
+    2100000: defaultPolygonShader
+    2300000: BirdieGud
+    3300000: BirdieGud
+    4300000: BirdieGud
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

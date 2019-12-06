@@ -48343,7 +48343,7 @@ GameObject:
   - component: {fileID: 794983364}
   - component: {fileID: 794983363}
   m_Layer: 0
-  m_Name: TubeFanUVMaterial4 (1)
+  m_Name: TubeAbovefan2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58514,7 +58514,7 @@ GameObject:
   - component: {fileID: 912109418}
   - component: {fileID: 912109417}
   m_Layer: 0
-  m_Name: pSphere53 (1)
+  m_Name: BigSpy_Redlight5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83630,7 +83630,7 @@ PrefabInstance:
     - target: {fileID: 8496029282146210001, guid: 579cb2f646419704fa8fc0f41b306f89,
         type: 3}
       propertyPath: m_Name
-      value: BottomFrontTubesUVEDMaterial2 (1)
+      value: PyramidTube2
       objectReference: {fileID: 0}
     - target: {fileID: 8496029282146210001, guid: 579cb2f646419704fa8fc0f41b306f89,
         type: 3}
@@ -83721,7 +83721,7 @@ GameObject:
   - component: {fileID: 1193643017}
   - component: {fileID: 1193643016}
   m_Layer: 0
-  m_Name: TubeFanUVMaterial4 (2)
+  m_Name: TubeAboveFan3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -99948,7 +99948,7 @@ GameObject:
   - component: {fileID: 1570631313}
   - component: {fileID: 1570631312}
   m_Layer: 0
-  m_Name: ScaryPipe2 (1)
+  m_Name: 'ScaryPipe2 '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -109094,6 +109094,54 @@ PrefabInstance:
     - target: {fileID: 100062, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100082, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: FanHodler
+      objectReference: {fileID: 0}
+    - target: {fileID: 100084, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: LightBulbHolder2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100086, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: LightBulbHolder3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100088, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: LightbulbHodler4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100090, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: DiskOnBigsSpy
+      objectReference: {fileID: 0}
+    - target: {fileID: 100092, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: LightbulbHodler1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100112, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: BigSpySphere
+      objectReference: {fileID: 0}
+    - target: {fileID: 100114, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: BigSpy_Redlight2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100116, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: BigSphere_Redlight3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100118, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: BigSpy_Redlight4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100120, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: BigSpyRedLight1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100134, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_Name
+      value: ScaryPipe1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
@@ -119248,7 +119296,7 @@ PrefabInstance:
     - target: {fileID: 4864863030478766784, guid: a33fa4a6a8018754e9effd1d58ff6859,
         type: 3}
       propertyPath: m_Name
-      value: ATwinTubeBetterUVEDMaterial2 (1)
+      value: TwinTubeClutter
       objectReference: {fileID: 0}
     - target: {fileID: 4864863030478766784, guid: a33fa4a6a8018754e9effd1d58ff6859,
         type: 3}
@@ -145662,7 +145710,7 @@ PrefabInstance:
     - target: {fileID: 6986370656204350861, guid: ce626b4a07aee1f4493e952d7acbecc7,
         type: 3}
       propertyPath: m_Name
-      value: ScaryPipe2 (2)
+      value: ScaryPipe3
       objectReference: {fileID: 0}
     - target: {fileID: 6986370656204350858, guid: ce626b4a07aee1f4493e952d7acbecc7,
         type: 3}

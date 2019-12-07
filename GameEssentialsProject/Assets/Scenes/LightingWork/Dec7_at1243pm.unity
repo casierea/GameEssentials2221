@@ -113976,6 +113976,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100062, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 100082, guid: 355cdd6e4d31b8643a6c6392cb7b7557, type: 3}
       propertyPath: m_Name
       value: FanHodler
